@@ -1,0 +1,47 @@
+# google
+.googlesyndication.com
+.googletagmanager.com
+.googletagservices.com
+mtalk.google.com
+suggestqueries.google.com
+
+# facebook
+.staticxx.facebook.com
+ads.facebook.com
+
+# reddit
+ads.reddit.com
+d.reddit.com
+
+# Miui
+tracking.india.miui.com
+tracking.rus.miui.com
+
+# Samsung
+business.samsungusa.com
+
+# bugsnag
+api.bugsnag.com
+app.bugsnag.com
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+# Pinterest
+widgets.pinterest.com
+
+# spotify
+log.spotify.com
+adeventtracker.spotify.com
+
+# twitter
+.ads.twitter.com
+.ads-twitter.com
+.p.twitter.com
+.scribe.twitter.com
+.syndication.twitter.com
+.syndication-o.twitter.com
+.urls.api.twitter.com
+advertising.twitter.com
+ads-api.twitter.com
