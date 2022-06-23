@@ -45,3 +45,10 @@ adeventtracker.spotify.com
 .urls.api.twitter.com
 advertising.twitter.com
 ads-api.twitter.com
+
+# Other
+luxury138.link
+investopedia.link
+gonutify.com
+qlink.id
+slotgelper.org
